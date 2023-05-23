@@ -1,0 +1,25 @@
+$bg_base: #fff;
+
+$font_read: 'Hanken Grotesk', sans-serif;
+
+$cl_primary: hsl(221, 100%, 96%);
+$cl_secondary: hsl(241, 100%, 89%);
+$cl_gray: hsl(224, 30%, 27%);
+$cl_white: #fffdfa;
+$cl_black: #000000;
+$cl_red: hsl(0, 100%, 67%);
+$cl_yellow: hsl(39, 100%, 56%);
+$cl_teal: hsl(166, 100%, 37%);
+$cl_blue: hsl(234, 85%, 45%);
+$cl_bg: hsl(252, 100%, 67%);
+$cl_bg2: hsl(241, 81%, 54%);
+$cl_circle: hsla(256, 72%, 46%, 1);
+$cl_circle2: hsla(241, 72%, 46%, 0);
+
+// break point
+$smallphone: 390px;
+$mntablet: 768px; 
+$mdtablet: 990px; 
+$desktop: 1024px;
+$desktopxl: 1300px;
+$desktophd: 1900px;
