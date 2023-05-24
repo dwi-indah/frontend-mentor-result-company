@@ -123,6 +123,7 @@ main {
     font-size: 1rem;
     padding: 1rem;
     transition: .5s ease;
+    cursor: pointer;
     &:hover {
         background: $cl_bg2;
     }
